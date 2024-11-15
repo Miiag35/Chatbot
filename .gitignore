@@ -1,0 +1,7 @@
+*.txt
+
+.emv
+
+.streamlit
+
+#no se suben, no quedan visibles este tipo de archivos
